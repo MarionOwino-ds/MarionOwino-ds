@@ -1,32 +1,39 @@
-# Hi 👋 I'm Marion Angela Owino
+# Hi, I'm Marion Angela Owino 👋
 
-**Aspiring Software Developer | Python Beginner | Future Backend Engineer**
-
-I'm currently learning:
-- 🌱 Python & Django for backend development  
-- 📘 Java, C, and C++ to strengthen my fundamentals  
-- 🔄 Committing to building real projects and learning consistently  
+I'm just starting out on my software engineering journey, focusing on backend development with Python and Django.  
+I’m also exploring AI to understand how it can enhance software applications.
 
 ---
 
-### 🎯 Goals:
-- Build and share meaningful software projects  
-- Learn one new tech skill every week  
-- Stay consistent and support other learners  
+## 🛠️ Currently Learning
 
-📍 Nairobi, Kenya  
-📬 Reach me: marionangelaowino@gmail.com  
-
----
-
-### 💻 Skills I'm Building
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+- Python (programming fundamentals and object-oriented programming)  
+- Django & Django REST Framework (building backend APIs)  
+- SQL and databases (PostgreSQL, MySQL basics)  
+- Git and GitHub (version control and collaboration)  
+- Basic Linux command line  
+- Introduction to AI & Machine Learning concepts (using libraries like NumPy, Pandas, Scikit-learn)  
+- Deployment basics (Heroku, Docker fundamentals)
 
 ---
 
-### 🧠 GitHub Stats
-[![Marion's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&hide_border=true)](https://github.com/MarionOwino-ds)
+## 🎯 My Goal
+
+To become a confident backend developer and software engineer who can build scalable, reliable applications and integrate simple AI features.
+
+---
+
+## 📫 How to reach me
+
+- Email: marionangelaowino@gmail.com  
+- GitHub: [MarionOwino-ds](https://github.com/MarionOwino-ds)
+
+---
+
+## 📂 Projects
+
+*I’m currently learning and working on my first projects. Watch this space!*
+
+---
+
+Thanks for visiting my profile! I’m open to advice, mentorship, and collaboration as I grow.
