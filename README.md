@@ -1,19 +1,21 @@
-# Hi 👋 I'm [Marion Angela Owino]
+# Hi 👋 I'm Marion Angela Owino
 
 **Aspiring Software Developer | Python Beginner | Future Backend Engineer**
 
 I'm currently learning:
-- 🌱 Python & Django for backend development
-- 📘 Java, C, and C++ to strengthen my fundamentals
-- 🔄 Committing to building real projects and learning consistently
+- 🌱 Python & Django for backend development  
+- 📘 Java, C, and C++ to strengthen my fundamentals  
+- 🔄 Committing to building real projects and learning consistently  
 
-**Goals:**
-- Build and share meaningful software projects
-- Learn one new tech skill every week
-- Stay consistent and support other learners
+---
+
+### 🎯 Goals:
+- Build and share meaningful software projects  
+- Learn one new tech skill every week  
+- Stay consistent and support other learners  
 
 📍 Nairobi, Kenya  
-📬 Reach me: [marionangelaowino@gmail.com]
+📬 Reach me: marionangelaowino@gmail.com  
 
 ---
 
@@ -27,5 +29,4 @@ I'm currently learning:
 ---
 
 ### 🧠 GitHub Stats
-[![MarionOwino-ds](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true)](https://github.com/YourUsername)
-
+[![Marion's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&hide_border=true)](https://github.com/MarionOwino-ds)
