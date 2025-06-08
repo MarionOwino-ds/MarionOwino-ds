@@ -1,36 +1,43 @@
 # Hi, I'm Marion Angela Owino 👋
 
-I'm just starting out on my software engineering journey, focusing on backend development with Python and Django.  
-I’m also exploring AI to understand how it can enhance software applications.
+I am a **software engineer** specializing in backend development.  
+I study Python and frameworks like Django to build robust backend systems and dynamic web applications.
 
 ---
 
-## 🛠️ Currently Learning
+## 🛠️ Skills & Technologies
 
-- Python (programming fundamentals and object-oriented programming)  
-- Django & Django REST Framework (building backend APIs)  
-- SQL and databases (PostgreSQL, MySQL basics)  
-- Git and GitHub (version control and collaboration)  
-- Basic Linux command line  
-- Introduction to AI & Machine Learning concepts (using libraries like NumPy, Pandas, Scikit-learn)  
-- Deployment basics (Heroku, Docker fundamentals)
+- **Languages:** Python, SQL  
+- **Frameworks:** Django, Django REST Framework  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools:** Git, GitHub, Docker (learning), Linux command line  
+- **Others:** Basics of AI/ML with NumPy, Pandas, Scikit-learn
 
 ---
 
-## 🎯 My Goal
+## 🚀 What I'm learning
 
-To become a confident backend developer and software engineer who can build scalable, reliable applications and integrate simple AI features.
+- Advanced backend development with Django and REST APIs  
+- Software engineering best practices (design patterns, testing, CI/CD)  
+- Deployment and containerization (Docker, Heroku)  
+- Introduction to AI and Machine Learning concepts
 
 ---
 
-## 📫 How to reach me
+## 📫 Connect with me
 
 - Email: marionangelaowino@gmail.com  
-- GitHub: [MarionOwino-ds](https://github.com/MarionOwino-ds)
+- GitHub: [MarionOwino-ds](https://github.com/MarionOwino-ds)  
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats
+
+![Marion's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile! I’m excited to grow as a software engineer and collaborate on meaningful projects.
 
 *I’m currently learning and working on my first projects. Watch this space!*
 
