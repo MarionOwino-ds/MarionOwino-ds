@@ -1,28 +1,35 @@
 # 👋 Hi, I'm Marion Angela Owino
 
 I'm an **aspiring data scientist** and backend development student.  
-Currently learning Python, Django, and the foundations of data analysis and machine learning.
+Currently learning Python, Django, and the foundations of data analysis and machine learning.  
+
 
 ---
 
 ## 🧠 Languages & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+**Languages:** Python, Java, C, C++, SQL, HTML  
+**Frameworks & Libraries:** Django, Django REST Framework, Pandas, NumPy, Scikit-learn  
+**Tools:** Git, GitHub, Jupyter Notebook, Linux (basic), VS Code
+
+---
+
+## 🚀 What I'm Learning
+
+- Python for data science and backend development  
+- Django for APIs and web apps  
+- Data analysis with Pandas and NumPy  
+- Machine learning basics with Scikit-learn  
+- SQL for working with databases  
+- Git and GitHub for version control  
+- Jupyter notebooks for data exploration
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarionOwino-ds&theme=radical&hide_border=false)
 
 ---
 
@@ -39,4 +46,5 @@ Click here to make a bunny dance → [🕺🐰](https://readme-jokes.vercel.app/
 
 ---
 
-_Thanks for visiting. I’m still learning, still growing — and that’s enough._
+_Thanks for visiting my profile. I'm still learning, still growing — and that's more than enough._
+
