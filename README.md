@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Marion Angela Owino
 
-I'm an **aspiring data scientist** and backend development student.  
-Currently learning Python, Django, and the foundations of data analysis and machine learning.  
+I'm a software engineer   
+
 
 
 ---
 
 ## 🧠 Languages & Tools
 
-**Languages:** Python, Java, C, C++, SQL, HTML  
-**Frameworks & Libraries:** Django, Django REST Framework, Pandas, NumPy, Scikit-learn  
+**Languages:** Python, Java, C, C++, SQL, HTML , css ,javascript ,c++,Kotlin ,typescript ,flutter 
+**Frameworks & Libraries:** Django, Django REST Framework, Pandas, NumPy, Scikit-learn  , react 
 **Tools:** Git, GitHub, Jupyter Notebook, Linux (basic), VS Code
 
 ---
