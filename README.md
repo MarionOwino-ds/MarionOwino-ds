@@ -1,50 +1,77 @@
-# 👋 Hi, I'm Marion Angela Owino
-
-I'm a software engineer   
-
-
+<h1 align="center">👋 Hi, I'm Marion Angela Owino</h1>
+<h3 align="center">A Passionate Full-Stack Developer | ALX Software Engineering Learner</h3>
 
 ---
 
-## 🧠 Languages & Tools
+## 🚀 About Me  
 
-**Languages:** Python, Java, C, C++, SQL, HTML , css ,javascript ,c++,Kotlin ,typescript ,flutter 
-**Frameworks & Libraries:** Django, Django REST Framework, Pandas, NumPy, Scikit-learn  , react 
-**Tools:** Git, GitHub, Jupyter Notebook, Linux (basic), VS Code
+<p>
+I am a learner of the <b>ALX Software Engineering program</b> and currently building my journey into full-stack web development.  
+I am passionate about creating solutions that bridge the gap between ideas and technology.  
+</p>
 
----
-
-## 🚀 What I'm Learning
-
-- Python for data science and backend development  
-- Django for APIs and web apps  
-- Data analysis with Pandas and NumPy  
-- Machine learning basics with Scikit-learn  
-- SQL for working with databases  
-- Git and GitHub for version control  
-- Jupyter notebooks for data exploration
+✨ My vision is to <b>build things from scratch and see them come to life</b>.  
+💡 My inspiration comes from my desire to become a better, more skilled person for myself.  
+🤝 I would like to collaborate on <b>both frontend and backend projects</b>.  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Skills & Technologies  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarionOwino-ds&theme=radical&hide_border=false)
-
----
-
-## 📫 Reach Me
-
-- 📧 Email: marionangelaowino@gmail.com  
-- 🐙 GitHub: [MarionOwino-ds](https://github.com/MarionOwino-ds)
-
----
-
-## 🎉 Fun Break
-
-Click here to make a bunny dance → [🕺🐰](https://readme-jokes.vercel.app/api?joke=Why%20did%20the%20bunny%20start%20dancing%3F%20Because%20he%20hopped%20on%20a%20good%20vibe!&type=gif)
+<p>
+  <b>Languages:</b> HTML, CSS, C, C++, Java, Python, SQL  
+  <br>
+  <b>Databases:</b> MongoDB, MySQL  
+  <br>
+  <b>Frameworks & Tools:</b> Git, GitHub, Node.js, React, VS Code  
+  <br>
+  <b>Currently Learning:</b> Full-Stack Development at ALX  
+</p>
 
 ---
 
-_Thanks for visiting my profile. I'm still learning, still growing — and that's more than enough._
+## 📂 Projects & Collaboration  
+
+🚧 I am still building my project portfolio, but I am **open to collaboration** on exciting **frontend and backend projects**.  
+If you’re looking for someone who is eager to learn, contribute, and grow—let’s connect!  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marionangelaowino&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marionangelaowino&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marionangelaowino&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## ✍🏽 Blogs & Writing  
+
+I also share my thoughts and technical writings on **Medium**.  
+📖 Check out my articles here: [@marionangelaowino](https://medium.com/@marionangelaowino)  
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="mailto:marionangelaowino@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marionangelaowino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@marionangelaowino"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/renny005957"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  - 🐙 GitHub: [MarionOwino-ds](https://github.com/MarionOwino-ds)
+</p>
+
+---
+
+⭐ **"Code, Learn, Build, Share" — that's my journey as a software engineer.**
+
 
