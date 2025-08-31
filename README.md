@@ -37,22 +37,6 @@ If you’re looking for someone who is eager to learn, contribute, and grow—le
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marionangelaowino&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marionangelaowino&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marionangelaowino&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## ✍🏽 Blogs & Writing  
 
 I also share my thoughts and technical writings on **Medium**.  
@@ -67,11 +51,26 @@ I also share my thoughts and technical writings on **Medium**.
   <a href="https://www.linkedin.com/in/marionangelaowino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@marionangelaowino"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://discordapp.com/users/renny005957"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  - 🐙 GitHub: [MarionOwino-ds](https://github.com/MarionOwino-ds)
+  <a href="https://github.com/MarionOwino-ds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarionOwino-ds&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionOwino-ds&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ⭐ **"Code, Learn, Build, Share" — that's my journey as a software engineer.**
-
 
