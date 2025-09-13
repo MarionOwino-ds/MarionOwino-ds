@@ -58,20 +58,24 @@ I also share my thoughts and technical writings on **Medium**.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarionOwino-ds&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionOwino-ds&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MarionOwino-ds&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <!-- Contribution Stats (Commits, PRs, Issues) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&count_private=true&show_icons=true&theme=radical&hide_title=false&hide_border=false" alt="Contribution Stats" />
 </p>
