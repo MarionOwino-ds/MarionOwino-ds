@@ -56,7 +56,9 @@ I also share my thoughts and technical writings on **Medium**.
 
 ---
 
-## 📈 GitHub Stats  
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -70,7 +72,11 @@ I also share my thoughts and technical writings on **Medium**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionOwino-ds&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=MarionOwino-ds&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
-⭐ **"Code, Learn, Build, Share" — that's my journey as a software engineer.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarionOwino-ds&layout=compact&theme=radical" alt="WakaTime Coding Stats" />
+</p>
 
