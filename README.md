@@ -76,6 +76,6 @@ I also share my thoughts and technical writings on **Medium**.
 </p>
 
 <p align="center">
-  <!-- Contribution Stats (Commits, PRs, Issues) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MarionOwino-ds&count_private=true&show_icons=true&theme=radical&hide_title=false&hide_border=false" alt="Contribution Stats" />
+  <!-- GitHub Contribution Graph -->
+  <img src="https://gh-contributions.vercel.app/api/?username=MarionOwino-ds&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
