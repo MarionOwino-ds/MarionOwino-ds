@@ -75,8 +75,3 @@ I also share my thoughts and technical writings on **Medium**.
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=MarionOwino-ds&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarionOwino-ds&layout=compact&theme=radical" alt="WakaTime Coding Stats" />
-</p>
-
