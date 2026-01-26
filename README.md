@@ -1,56 +1,55 @@
-# 👩‍💻 Hey there, I’m Marion!
-A **Software Developer** who turns coffee ☕ and ideas 💡 into code.  
-I build apps, break things, fix them again, and learn a ton along the way.
+# Hi 👋, I'm Marion
+
+**Software Developer** | Applied Computer Science Student at Daystar University  
+
 
 ---
 
-## ⚡ Tech I Play With
-**Languages:** Dart 🦄, Python 🐍, C, C++, Java ☕, HTML & CSS  
-**Frameworks & Tools:** Flutter 🚀, PHP 🐘, Git & GitHub 🛠️  
-**Databases:** MySQL 🗄️, SQLite 🗃️  
-
-**Currently Experimenting With:**  
-- Django (because backend magic is calling)  
-- Project structure and clean code that won’t make me cry at 3AM  
+## 🔭 Current Focus
+- 💻 Learning **Django** and building full-stack apps  
+- 📱 Exploring **Flutter** mobile app development  
+- 🤝 Open to collaboration on web & mobile projects  
 
 ---
 
-## 🛠️ What I Build
-- Flutter-powered mobile apps  
-- Web projects (PHP + MySQL)  
-- Cool experiments that sometimes actually work 😅  
+## 💡 Skills
+
+**Languages:**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge&logo=prolog&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+**Frameworks & Tools:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ---
 
-## 🤝 Collab or Chat?
-I love collaborating on projects that are fun, challenging, or just make life easier.  
-Hit me up if you want to build, learn, or just trade memes while coding.
+## 🚀 Projects
+| Project | Tech | Link |
+|---------|------|------|
+| Pet Store App | Flutter + PHP | [View on GitHub](https://github.com/MarionOwino-ds) |
+| *(Coming soon!)* | - | - |
 
 ---
 
-## 🌈 Fun Fact About Me
-I believe the best way to learn is **to break things on purpose**, then rebuild them better.  
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:marionangelaowino@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/marionangelaowino">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@marionangelaowino">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/renny005957">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MarionOwino-ds">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/angiemariona?igsh=MTZ5eWEzcTE0djM1dg==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+## 📫 Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marionangelaowino@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marionangelaowino)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarionOwino-ds)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angiemariona)
